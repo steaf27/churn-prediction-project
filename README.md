@@ -31,6 +31,11 @@ Telco Customer Churn Dataset
 - Improve and promote tech support services
 - Provide retention programs for high-risk customers
 
+## 🔥 Key Findings
+- High monthly charges increase churn risk
+- Lack of tech support significantly impacts retention
+- Logistic Regression performs better in detecting churn customers
+
 ## 🚀 Tools & Libraries
 - Python
 - Pandas
